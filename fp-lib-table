@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name nrfmicro)(type KiCad)(uri ${KIPRJMOD}/nrfmicro.pretty)(options "")(descr ""))
+  (lib (name nrf52840-dongle-e73)(type KiCad)(uri ${KIPRJMOD}/nrf52840-dongle-e73.pretty)(options "")(descr ""))
+)
